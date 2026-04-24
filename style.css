@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: #0f172a;
+  color: #f1f5f9;
+}
+
+/* Header */
+header {
+  text-align: center;
+  padding: 40px;
+  background: linear-gradient(135deg, #2563eb, #1e3a8a);
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+header p {
+  opacity: 0.8;
+}
+
+/* Profile */
+.profile {
+  text-align: center;
+  padding: 20px;
+}
+
+.profile img {
+  width: 150px;
+  border-radius: 50%;
+  border: 3px solid #38bdf8;
+}
+
+/* Cards */
+.card {
+  background: #1e293b;
+  margin: 20px auto;
+  padding: 20px;
+  width: 90%;
+  max-width: 800px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+h2 {
+  color: #38bdf8;
+}
+
+/* List */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  background: #334155;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  opacity: 0.7;
+}
