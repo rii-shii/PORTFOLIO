@@ -1,3 +1,4 @@
+<img width="1540" height="866" alt="Screenshot 2026-09-17 121910" src="https://github.com/user-attachments/assets/787a784f-fdde-459d-aa25-f75811d552d6" />
 Technova Solutions — Sales & Performance Dashboard
 
 An interactive Power BI dashboard designed to analyze and visualize sales performance for Technova Solutions. 
